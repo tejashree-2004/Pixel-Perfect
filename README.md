@@ -83,6 +83,4 @@ The project implements a complete design system including:
 - Score persistence with localStorage
 - Shareable results
 
----
 
-*Built with ❤️ as a Frontend Intern Assignment demonstration*
